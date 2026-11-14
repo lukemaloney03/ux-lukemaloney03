@@ -1,6 +1,6 @@
 # Luke Maloney's UX Journal
 
-![User interface](assets/apple-pay.png)
+![User interface](assets/ux.png)
 
 ***
 
@@ -8,3 +8,6 @@ Hi, I'm **Luke**. I'm from Southern California and I'm currently studying Comput
 
 ***
 
+## UX Journal Entries
+
+[Checking Stock Charts in TradingView](j01/README.md)
