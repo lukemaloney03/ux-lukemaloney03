@@ -10,4 +10,4 @@ Hi, I'm **Luke**. I'm from Southern California and I'm currently studying Comput
 
 ## UX Journal Entries
 
-[Checking Stock Charts in TradingView](j01/README.md)
+[Checking Stock Charts in TradingView](https://lukemaloney03.github.io/ux-lukemaloney03/j01/)
